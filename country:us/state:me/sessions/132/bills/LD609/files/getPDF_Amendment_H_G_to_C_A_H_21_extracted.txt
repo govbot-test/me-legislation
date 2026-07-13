@@ -1,0 +1,197 @@
+Title: 3 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 3 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Amendment H-G to C-A (H-21)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 609
+2 Date: (Filing No. H- )
+4 STATE OF MAINE
+5 HOUSE OF REPRESENTATIVES
+6 132ND LEGISLATURE
+7 FIRST REGULAR SESSION
+8 HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 377,
+9 L.D. 609, “An Act Making Certain Appropriations and Allocations and Changing Certain
+10 Provisions of Law Necessary to the Proper Operations of State Government”
+11 Amend the amendment by inserting after Part TT the following:
+12 'PART UU
+13 Sec. UU-1. 2 MRSA §9, sub-§8 is enacted to read:
+14 8. Prohibition on use of funds. The director may not administer funds from public
+15 or private sources for the purpose of offshore wind power project development or offshore
+16 wind port development.
+17 Sec. UU-2. 23 MRSA §4441, as enacted by PL 2023, c. 481, §1, is amended to
+18 read:
+19 §4441. Port facility-related requirements Prohibited use of funds
+20 1. Definitions. As used in this subchapter, unless the context otherwise indicates, the
+21 following terms have the following meanings.
+22 A. "Offshore wind power project" has the same meaning as in Title 35‑A, section
+23 3405, subsection 1, paragraph C.
+24 B. "Offshore wind terminal" has the same meaning as in Title 35‑A, section 3410,
+25 subsection 1, paragraph D.
+26 C. "Public authority" has the same meaning as in Title 26, section 1304, subsection 7.
+27 D. "Public work" has the same meaning as in Title 26, section 1304, subsection 8.
+28 2. Public works; offshore wind terminals; agreements. Notwithstanding Title 26,
+29 section 3601, if an offshore wind terminal that is a public work is constructed or altered for
+30 the purpose of supporting an offshore wind power project, the public authority responsible
+31 for the construction or alteration shall require agreements that comply with 29 United States
+32 Code, Section 158(f) or Title 35‑A, section 3408, subsection 3 for all construction work.
+33 3. Public-private partnership; agreements. If an offshore wind power project
+34 involves a public-private partnership that includes the lease of an offshore wind terminal
+35 owned or operated by the State, including any port facility owned or operated by the Maine
+Page 1 - 132LR1775(13)
+HOUSE AMENDMENT
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 377, L.D. 609
+316 Port Authority, the department, authority or other agency responsible for granting the lease
+327 shall require agreements that comply with 29 United States Code, Section 158(f) or Title
+338 35‑A, section 3408, subsection 3 as a condition of the lease for all on-site construction and
+349 fabrication of materials for the offshore wind power project.
+5 4. Prohibition on use of funds. The department may not administer funds from public
+6 or private sources for the purpose of offshore wind power project development or offshore
+7 wind port development.
+8 Sec. UU-3. Prohibition on use of funds. Notwithstanding any provision of law
+9 to the contrary, the Department of Transportation's 3-year work plan for calendar years
+10 2025, 2026 and 2027 may not include funding for projects related to offshore wind power
+11 project development or offshore wind port development.
+12 Sec. UU-4. Appropriations and allocations. The following appropriations and
+13 allocations are made.
+14 EXECUTIVE DEPARTMENT
+15 Maine Offshore Wind Renewable Energy and Economic Development Program
+16 Z389
+17 Initiative: BASELINE BUDGET
+18 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+19 All Other ($500) ($500)
+20 __________ __________
+21 OTHER SPECIAL REVENUE FUNDS TOTAL ($500) ($500)
+2128 Offshore Wind Research Consortium Fund Z314
+23 Initiative: BASELINE BUDGET
+24 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+25 All Other ($500) ($500)
+26 __________ __________
+27 OTHER SPECIAL REVENUE FUNDS TOTAL ($500) ($500)
+2284
+29 EXECUTIVE DEPARTMENT
+30 DEPARTMENT TOTALS 2025-26 2026-27
+31
+32 OTHER SPECIAL REVENUE FUNDS ($1,000) ($1,000)
+33 __________ __________
+34 DEPARTMENT TOTAL - ALL FUNDS ($1,000) ($1,000)
+3259 '
+36 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+37 section number to read consecutively.
+Page 2 - 132LR1775(13)
+HOUSE AMENDMENT
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 377, L.D. 609
+1 SUMMARY
+22 This amendment prohibits the Director of the Governor's Energy Office and the
+33 Department of Transportation from administering funds for the purpose of offshore wind
+44 power project development or offshore wind port development.
+55 SPONSORED BY: ___________________________________
+66 (Representative PAUL, R.)
+77 TOWN: Winterport
+Page 3 - 132LR1775(13)
+HOUSE AMENDMENT
+[DELETED: LD:(RHL0P1A23 485o6w7 8r9§011f2A334B5s6C7D829s0t1f2C33  P p a  I a o w p p4i5o]
+[DELETED: 6P7s839f4ow t021p2 3a4E5M6Z7IS262r()(___L()(8O3IS262r()(___L()(4T S262 S()(___S()(96A7s]
+[DELETED: T a p t D o t G E O a tDpS(T]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 609
+2 Date: (Filing No. H- )
+3 Reproduced and distributed under the direction of the Clerk of the House.
+4 STATE OF MAINE
+5 HOUSE OF REPRESENTATIVES
+6 132ND LEGISLATURE
+7 FIRST REGULAR SESSION
+8 HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 377,
+9 L.D. 609, “An Act Making Certain Appropriations and Allocations and Changing Certain
+10 Provisions of Law Necessary to the Proper Operations of State Government”
+11 Amend the amendment by inserting after Part TT the following:
+12 'PART UU
+13 Sec. UU-1. 2 MRSA §9, sub-§8 is enacted to read:
+14 8. Prohibition on use of funds. The director may not administer funds from public
+15 or private sources for the purpose of offshore wind power project development or offshore
+16 wind port development.
+17 Sec. UU-2. 23 MRSA §4441, as enacted by PL 2023, c. 481, §1, is amended to
+18 read:
+19 §4441. Port facility-related requirements Prohibited use of funds
+20 1. Definitions. As used in this subchapter, unless the context otherwise indicates, the
+21 following terms have the following meanings.
+22 A. "Offshore wind power project" has the same meaning as in Title 35‑A, section
+23 3405, subsection 1, paragraph C.
+24 B. "Offshore wind terminal" has the same meaning as in Title 35‑A, section 3410,
+25 subsection 1, paragraph D.
+26 C. "Public authority" has the same meaning as in Title 26, section 1304, subsection 7.
+27 D. "Public work" has the same meaning as in Title 26, section 1304, subsection 8.
+28 2. Public works; offshore wind terminals; agreements. Notwithstanding Title 26,
+29 section 3601, if an offshore wind terminal that is a public work is constructed or altered for
+30 the purpose of supporting an offshore wind power project, the public authority responsible
+31 for the construction or alteration shall require agreements that comply with 29 United States
+32 Code, Section 158(f) or Title 35‑A, section 3408, subsection 3 for all construction work.
+33 3. Public-private partnership; agreements. If an offshore wind power project
+34 involves a public-private partnership that includes the lease of an offshore wind terminal
+35 owned or operated by the State, including any port facility owned or operated by the Maine
+Page 1 - 132LR1775(13)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 377, L.D. 609
+316 Port Authority, the department, authority or other agency responsible for granting the lease
+327 shall require agreements that comply with 29 United States Code, Section 158(f) or Title
+338 35‑A, section 3408, subsection 3 as a condition of the lease for all on-site construction and
+349 fabrication of materials for the offshore wind power project.
+5 4. Prohibition on use of funds. The department may not administer funds from public
+6 or private sources for the purpose of offshore wind power project development or offshore
+7 wind port development.
+8 Sec. UU-3. Prohibition on use of funds. Notwithstanding any provision of law
+9 to the contrary, the Department of Transportation's 3-year work plan for calendar years
+10 2025, 2026 and 2027 may not include funding for projects related to offshore wind power
+11 project development or offshore wind port development.
+12 Sec. UU-4. Appropriations and allocations. The following appropriations and
+13 allocations are made.
+14 EXECUTIVE DEPARTMENT
+15 Maine Offshore Wind Renewable Energy and Economic Development Program
+16 Z389
+17 Initiative: BASELINE BUDGET
+18 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+19 All Other ($500) ($500)
+20 __________ __________
+21 OTHER SPECIAL REVENUE FUNDS TOTAL ($500) ($500)
+2128 Offshore Wind Research Consortium Fund Z314
+23 Initiative: BASELINE BUDGET
+24 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+25 All Other ($500) ($500)
+26 __________ __________
+27 OTHER SPECIAL REVENUE FUNDS TOTAL ($500) ($500)
+2284
+29 EXECUTIVE DEPARTMENT
+30 DEPARTMENT TOTALS 2025-26 2026-27
+31
+32 OTHER SPECIAL REVENUE FUNDS ($1,000) ($1,000)
+33 __________ __________
+34 DEPARTMENT TOTAL - ALL FUNDS ($1,000) ($1,000)
+3259 '
+36 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+37 section number to read consecutively.
+Page 2 - 132LR1775(13)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 377, L.D. 609
+1 SUMMARY
+22 This amendment prohibits the Director of the Governor's Energy Office and the
+33 Department of Transportation from administering funds for the purpose of offshore wind
+44 power project development or offshore wind port development.
+55 SPONSORED BY: ___________________________________
+66 (Representative PAUL, R.)
+77 TOWN: Winterport
+Page 3 - 132LR1775(13)
+HOUSE AMENDMENT
+
+[DELETED: LD:(RHL0P1A23 485o6w7 8r9§011f2A334B5s6C7D829s0t1f2C33  P p a  I a o w p p4i5o]
+[DELETED: 6P7s839f4ow t021p2 3a4E5M6Z7IS262r()(___L()(8O3IS262r()(___L()(4T S262 S()(___S()(96A7s]
+[DELETED: T a p t D o t G E O a tDpS(T]

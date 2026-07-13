@@ -1,0 +1,148 @@
+Title: 3 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 3 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Amendment H-A to C-A (H-15)
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 609
+2 Date: (Filing No. H- )
+4 STATE OF MAINE
+5 HOUSE OF REPRESENTATIVES
+6 132ND LEGISLATURE
+7 FIRST REGULAR SESSION
+8 HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 377,
+9 L.D. 609, “An Act Making Certain Appropriations and Allocations and Changing Certain
+10 Provisions of Law Necessary to the Proper Operations of State Government”
+11 Amend the amendment by inserting after Part TT the following:
+12 'PART UU
+13 Sec. UU-1. State employees required to pay premiums for paid family and
+14 medical leave. Notwithstanding any provision of the Maine Revised Statutes, Title 26,
+15 chapter 7, subchapter 6-C to the contrary, an employee of State Government, including an
+16 employee in the executive, legislative or judicial branch and a state department or agency,
+17 is responsible for paying the employee's share of the premium imposed pursuant to Title
+18 26, section 850-F, subsection 3 until the State receives approval for a private plan pursuant
+19 to Title 26, section 850-H and the State is no longer required to pay the premium.
+20 Sec. UU-2. Appropriations and allocations. The following appropriations and
+21 allocations are made.
+22 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+23 Departments and Agencies - Statewide 0016
+24 Initiative: Deallocates funds representing savings to the Highway Fund as a result of the
+25 requirement that state employees contribute one-half of the 1% assessment on employers
+26 for the paid family and medical leave benefits program.
+27 HIGHWAY FUND 2025-26 2026-27
+28 Personal Services ($381,461) ($396,553)
+29 __________ __________
+30 HIGHWAY FUND TOTAL ($381,461) ($396,553)
+3217 Departments and Agencies - Statewide 0016
+32 Initiative: Deappropriates funds representing savings to the General Fund as a result of the
+33 requirement that state employees contribute one-half of the 1% assessment on employers
+34 for the paid family and medical leave benefits program.
+35 GENERAL FUND 2025-26 2026-27
+36 Personal Services ($2,301,801) ($2,390,778)
+Page 1 - 132LR1775(09)
+HOUSE AMENDMENT
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 377, L.D. 609
+1 __________ __________
+2 GENERAL FUND TOTAL ($2,301,801) ($2,390,778)
+31
+4 ADMINISTRATIVE AND FINANCIAL
+5 SERVICES, DEPARTMENT OF
+6 DEPARTMENT TOTALS 2025-26 2026-27
+7
+8 GENERAL FUND ($2,301,801) ($2,390,778)
+9 HIGHWAY FUND ($381,461) ($396,553)
+10 __________ __________
+11 DEPARTMENT TOTAL - ALL FUNDS ($2,683,262) ($2,787,331)
+124 '
+13 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+14 section number to read consecutively.
+15 SUMMARY
+1166 This amendment requires an employee of State Government, including an employee in
+1177 the executive, legislative or judicial branch and a state department or agency, to pay that
+1188 employee's share of the premium imposed under the paid family and medical leave law
+1199 until the State receives approval for a private plan and is no longer required to pay the
+2200 premium.
+2211 SPONSORED BY: ___________________________________
+2222 (Representative BOYER, D.)
+2233 TOWN: Poland
+Page 2 - 132LR1775(09)
+HOUSE AMENDMENT
+[DELETED: LD:(RHL0P1A23.S4N5c6e7i829t0 1a2A3D4I5r6fD262s()(___L()(7D2I3r4fD262s()(]
+[DELETED: ___L()(  S262 D()(D()(___S()(3A4s6T7t8e9u0p1S2(3T]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 609
+2 Date: (Filing No. H- )
+3 Reproduced and distributed under the direction of the Clerk of the House.
+4 STATE OF MAINE
+5 HOUSE OF REPRESENTATIVES
+6 132ND LEGISLATURE
+7 FIRST REGULAR SESSION
+8 HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 377,
+9 L.D. 609, “An Act Making Certain Appropriations and Allocations and Changing Certain
+10 Provisions of Law Necessary to the Proper Operations of State Government”
+11 Amend the amendment by inserting after Part TT the following:
+12 'PART UU
+13 Sec. UU-1. State employees required to pay premiums for paid family and
+14 medical leave. Notwithstanding any provision of the Maine Revised Statutes, Title 26,
+15 chapter 7, subchapter 6-C to the contrary, an employee of State Government, including an
+16 employee in the executive, legislative or judicial branch and a state department or agency,
+17 is responsible for paying the employee's share of the premium imposed pursuant to Title
+18 26, section 850-F, subsection 3 until the State receives approval for a private plan pursuant
+19 to Title 26, section 850-H and the State is no longer required to pay the premium.
+20 Sec. UU-2. Appropriations and allocations. The following appropriations and
+21 allocations are made.
+22 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+23 Departments and Agencies - Statewide 0016
+24 Initiative: Deallocates funds representing savings to the Highway Fund as a result of the
+25 requirement that state employees contribute one-half of the 1% assessment on employers
+26 for the paid family and medical leave benefits program.
+27 HIGHWAY FUND 2025-26 2026-27
+28 Personal Services ($381,461) ($396,553)
+29 __________ __________
+30 HIGHWAY FUND TOTAL ($381,461) ($396,553)
+3217 Departments and Agencies - Statewide 0016
+32 Initiative: Deappropriates funds representing savings to the General Fund as a result of the
+33 requirement that state employees contribute one-half of the 1% assessment on employers
+34 for the paid family and medical leave benefits program.
+35 GENERAL FUND 2025-26 2026-27
+36 Personal Services ($2,301,801) ($2,390,778)
+Page 1 - 132LR1775(09)
+HOUSE AMENDMENT
+
+HOUSE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 377, L.D. 609
+1 __________ __________
+2 GENERAL FUND TOTAL ($2,301,801) ($2,390,778)
+31
+4 ADMINISTRATIVE AND FINANCIAL
+5 SERVICES, DEPARTMENT OF
+6 DEPARTMENT TOTALS 2025-26 2026-27
+7
+8 GENERAL FUND ($2,301,801) ($2,390,778)
+9 HIGHWAY FUND ($381,461) ($396,553)
+10 __________ __________
+11 DEPARTMENT TOTAL - ALL FUNDS ($2,683,262) ($2,787,331)
+124 '
+13 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+14 section number to read consecutively.
+15 SUMMARY
+1166 This amendment requires an employee of State Government, including an employee in
+1177 the executive, legislative or judicial branch and a state department or agency, to pay that
+1188 employee's share of the premium imposed under the paid family and medical leave law
+1199 until the State receives approval for a private plan and is no longer required to pay the
+2200 premium.
+2211 SPONSORED BY: ___________________________________
+2222 (Representative BOYER, D.)
+2233 TOWN: Poland
+Page 2 - 132LR1775(09)
+HOUSE AMENDMENT
+
+[DELETED: LD:(RHL0P1A23.S4N5c6e7i829t0 1a2A3D4I5r6fD262s()(___L()(7D2I3r4fD262s()(]
+[DELETED: ___L()(  S262 D()(D()(___S()(3A4s6T7t8e9u0p1S2(3T]
