@@ -1,0 +1,53 @@
+{
+  "legislative_session": "132",
+  "identifier": "SP 857",
+  "title": "Joint Rule 308.2 Letter, Ld Ld 2058, 2064, 2063, 2065, 2066, 2056, 2060, 2061, 2057, 2059, 2067, 2062.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-sp857"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100996",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100996",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100996",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100996",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "\"JOINT RULE 308.2 LETTER, LD LD 2058, 2064, 2063, 2065, 2066, 2056, 2060, 2061, 2057, 2059, 2067, 2062.\""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:12Z"
+  }
+}

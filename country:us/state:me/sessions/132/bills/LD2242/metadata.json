@@ -1,0 +1,145 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2242",
+  "title": "Resolve, Regarding Legislative Review Of Portions Of Chapter 6:  Standards Relating To Prescriptive Authorities And Collaborative Relationship For Naturopathic Doctors, A Late-Filed Major Substantive Rule Of The Department Of Professional And Financial Regulation",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AUTHORITIES AND COLLABORATIONS",
+    "HEALTH CARE SERVICES",
+    "PRESCRIPTION DRUGS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2242"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Representative MATHIESON for the Department of Professional and Financial Regulation pursuant to the Maine Revised Statutes, Title 5, section 8072 and approved for introduction by a majority of the Legislative Council, reports that the Resolve be REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES and ordered printed pursuant to Joint Rule 218.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "Report was READ and ACCEPTED.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "The Resolve was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES and ordered printed pursuant to Joint Rule 218.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "Report READ and ACCEPTED, in concurrence.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "On motion by Senator Bailey of York REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES and ordered printed pursuant to Joint Rule 218, in concurrence.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kristi MATHIESON",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kristi MATHIESON\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2242 HP 1521",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1521&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280102123",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280102123",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280102123",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280102123",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2242"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:14Z"
+  }
+}

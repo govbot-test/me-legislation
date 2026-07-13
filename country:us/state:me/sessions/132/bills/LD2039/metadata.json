@@ -1,0 +1,113 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2039",
+  "title": "Resolve, Regarding Legislative Review Of Portions Of Chapter 1:  Fee Schedule, A Major Substantive Rule Of The Department Of Agriculture, Conservation And Forestry, Maine Land Use Planning Commission",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "FEE SCHEDULE",
+    "LAND USE PLANNING COMMISSION",
+    "RULES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2039"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Reported by Representative PLUECKER for the Department of Agriculture, Conservation and Forestry, Maine Land Use Planning Commission pursuant to the Maine Revised Statutes, Title 5, section 8072.",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "Received by the Clerk of the House on December 3, 2025.",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "The Resolve was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY pursuant to Joint Rule 308.2 and ordered printed.",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "William PLUECKER",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William PLUECKER\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2039 HP 1369",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1369&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100904",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100904",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100904",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100904",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2039"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:14Z"
+  }
+}

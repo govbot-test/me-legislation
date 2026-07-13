@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-208) and Senate Amendment \"A\" (S-471).",
+    "occurred_at": "2025-06-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097715",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097715",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097715",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097715",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1287"
+}

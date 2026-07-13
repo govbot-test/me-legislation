@@ -1,0 +1,150 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2144",
+  "title": "Resolve, To Establish The Working Group To Prioritize Wellness And Mental Health Resources For Heritage Industries",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "DELIVERY",
+    "HERITAGE INDUSTRY RESOURCES",
+    "MENTAL HEALTH SERVICES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2144"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Henry INGWERSEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Henry INGWERSEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell BLACK",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell BLACK\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stacy BRENNER",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stacy BRENNER\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allison HEPLER",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Allison HEPLER\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Craig HICKMAN",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Craig HICKMAN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marianne MOORE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marianne MOORE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William PLUECKER",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William PLUECKER\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cameron RENY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cameron RENY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tiffany STROUT",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tiffany STROUT\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Denise TEPLER",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Denise TEPLER\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2144 SP 862",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0862&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101059",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101059",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101059",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101059",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2144"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:12Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2068",
+  "title": "An Act To Bring The Law Governing Emergency Equipment For Trucks And Truck Tractors Into Alignment With The Federal Motor Carrier Laws",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "EQUIPMENT",
+    "MOTOR CARRIERS",
+    "SAFETY"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2068"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Clerk of the House on December 15, 2025.",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    },
+    {
+      "description": "The Bill was REFERRED to the Committee on TRANSPORTATION pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "James WHITE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"James WHITE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2068 HP 1381",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1381&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100986",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100986",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100986",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100986",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2068"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:10Z"
+  }
+}

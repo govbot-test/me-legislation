@@ -1,0 +1,78 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2080",
+  "title": "An Act To Protect Consumers By Prohibiting The Use Of Credit Cards In Sports Wagering",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CREDIT CARD USE",
+    "GAMBLING",
+    "SPORTS WAGERING"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2080"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Marc MALON",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Marc MALON\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2080 HP 1395",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1395&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101130",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101130",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101130",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101130",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2080"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:14Z"
+  }
+}

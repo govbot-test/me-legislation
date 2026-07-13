@@ -1,0 +1,123 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2193",
+  "title": "An Act To Extend The Requirement That The Maine Commission On Public Defense Services Compensate Certain Private Attorneys Appointed To Provide Indigent Legal Services",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "INDIGENT",
+    "LEGAL SERVICES",
+    "PRIVATE ATTORNEYS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2193"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Reported that the same be REFERRED to the Committee on JUDICIARY, pursuant to Public Law, chapter 40, section 5.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:11Z"
+      }
+    },
+    {
+      "description": "Report READ and ACCEPTED.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:11Z"
+      }
+    },
+    {
+      "description": "Bill and accompanying papers REFERRED to the Committee on JUDICIARY.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:11Z"
+      }
+    },
+    {
+      "description": "Sent down for concurrence.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:11Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Anne CARNEY",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Anne CARNEY\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2193 SP 894",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0894&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101471",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101471",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101471",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101471",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2193"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:11Z"
+  }
+}

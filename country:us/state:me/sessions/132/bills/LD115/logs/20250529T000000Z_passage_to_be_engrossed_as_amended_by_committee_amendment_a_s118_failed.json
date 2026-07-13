@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "PASSAGE TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-118) FAILED.",
+    "occurred_at": "2025-05-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095523",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095523",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095523",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095523",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 115"
+}

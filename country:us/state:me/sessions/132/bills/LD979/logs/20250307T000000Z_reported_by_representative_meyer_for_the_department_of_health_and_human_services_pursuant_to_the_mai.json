@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Reported by Representative MEYER for the Department of Health and Human Services pursuant to the Maine Revised Statutes, Title 5, section 8072 and approved for introduction by a majority of the Legislative Council.",
+    "occurred_at": "2025-03-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097282",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097282",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097282",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097282",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 979"
+}

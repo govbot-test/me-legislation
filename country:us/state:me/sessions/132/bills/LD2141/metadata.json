@@ -1,0 +1,110 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2141",
+  "title": "An Act To Direct A Portion Of Unclaimed Beverage Container Deposits To The Lake Water Quality Restoration And Protection Fund, The Maine Working Farmland Access And Protection Program And Public Defender Office Staffing",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BOTTLES",
+    "CONTAINERS - RETURNABLE",
+    "UNCLAIMED DEPOSITS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2141"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Stacy BRENNER",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stacy BRENNER\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William BRIDGEO",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William BRIDGEO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Victoria DOUDERA",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Victoria DOUDERA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt MOONEN",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Matt MOONEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Denise TEPLER",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Denise TEPLER\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2141 SP 859",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0859&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101055",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101055",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101055",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101055",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2141"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:17Z"
+  }
+}

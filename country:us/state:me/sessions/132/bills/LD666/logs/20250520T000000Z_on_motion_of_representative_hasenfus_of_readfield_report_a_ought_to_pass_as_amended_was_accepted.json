@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "On motion of Representative HASENFUS of Readfield, REPORT A Ought to Pass as Amended was ACCEPTED.",
+    "occurred_at": "2025-05-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096736",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096736",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096736",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096736",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 666"
+}

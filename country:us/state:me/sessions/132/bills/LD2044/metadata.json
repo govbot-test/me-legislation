@@ -1,0 +1,100 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2044",
+  "title": "An Act To Allow For The Transferability Of The Biofuel Production And Renewable Chemicals Tax Credits",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BIOFUEL AND RENEWABLE CHEMICALS",
+    "CREDITS",
+    "INCOME TAX"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2044"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate on December 9, 2025 and REFERRED to the Committee on TAXATION pursuant to Joint Rule 308.2",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Teresa PIERCE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Teresa PIERCE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan FECTEAU",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ryan FECTEAU\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2044 SP 837",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0837&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100926",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100926",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100926",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100926",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2044"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:13Z"
+  }
+}

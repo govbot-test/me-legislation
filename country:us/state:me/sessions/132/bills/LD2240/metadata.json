@@ -1,0 +1,145 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2240",
+  "title": "Resolve, Regarding Legislative Review Of Chapter 10:  Significant Wildlife Habitat, A Late-Filed Major Substantive Rule Of The Department Of Inland Fisheries And Wildlife",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "INLAND FISHERIES AND WILDLIFE DEPT",
+    "RULES",
+    "SIGNIFICANT WILDLIFE HABITAT"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2240"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Representative ROBERTS for the Department of Inland Fisheries and Wildlife pursuant to the Maine Revised Statutes, Title 5, section 8072 and approved for introduction by a majority of the Legislative Council, reports that the Resolve be REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE and ordered printed pursuant to Joint Rule 218.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:15Z"
+      }
+    },
+    {
+      "description": "Report was READ and ACCEPTED.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:15Z"
+      }
+    },
+    {
+      "description": "The Resolve was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE and ordered printed pursuant to Joint Rule 218.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:15Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:15Z"
+      }
+    },
+    {
+      "description": "Report READ and ACCEPTED, in concurrence.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:15Z"
+      }
+    },
+    {
+      "description": "On motion by Senator Baldacci of Penobscot REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE and ordered printed pursuant to Joint Rule 218, in concurrence.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tiffany ROBERTS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tiffany ROBERTS\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2240 HP 1515",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1515&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280102067",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280102067",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280102067",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280102067",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2240"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:15Z"
+  }
+}

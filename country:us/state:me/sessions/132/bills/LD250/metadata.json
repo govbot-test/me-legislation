@@ -1,0 +1,340 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 250",
+  "title": "An Act Regarding The Disposal Of Abandoned Human Remains",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "DEATH",
+    "DISPOSITION OF REMAINS",
+    "UNIDENTIFIED REMAINS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld250"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Committee on JUDICIARY suggested and ordered printed REFERENCE to the Committee on JUDICIARY Ordered sent down forthwith for concurrence",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "The Bill was REFERRED to the Committee on JUDICIARY.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "In concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Reports READ",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "On motion by Senator CARNEY of Cumberland The Majority Ought to Pass Report ACCEPTED",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "READ ONCE",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Under suspension of the Rules, READ A SECOND TIME AND PASSED TO BE ENGROSSED",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Ordered sent down forthwith for concurrence",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Reports READ.",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "On motion of Representative KUHN of Falmouth, the Majority Ought to Pass Report was ACCEPTED.",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "The Bill was READ ONCE.",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading.",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "The Bill was PASSED TO BE ENGROSSED",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "In concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "PASSED TO BE ENACTED.",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "PASSED TO BE ENACTED, in concurrence.",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Work Session Held",
+      "date": "2025-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Voted - Divided Report",
+      "date": "2025-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Reported Out - OTP/ONTP",
+      "date": "2025-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Anne CARNEY",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Anne CARNEY\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 250 SP 117",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0117&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Chapter 14",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0117&item=3&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "LD 250 SP 117 - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN025001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Status - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN025003.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095887",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095887",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095887",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095887",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 250"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:16Z"
+  }
+}

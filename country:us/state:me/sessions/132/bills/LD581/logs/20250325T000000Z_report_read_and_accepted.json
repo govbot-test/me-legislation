@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Report READ and ACCEPTED.",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096590",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096590",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096590",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096590",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 581"
+}

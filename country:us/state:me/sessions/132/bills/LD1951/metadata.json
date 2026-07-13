@@ -1,0 +1,573 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 1951",
+  "title": "An Act To Promote Food Processing And Manufacturing Facility Expansion And Create Jobs",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CREDITS",
+    "INCOME TAX",
+    "PRODUCTION FACILITIES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld1951"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Committee on TAXATION suggested and ordered printed REFERENCE to the Committee on TAXATION Ordered sent down forthwith for concurrence",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "The Bill was REFERRED to the Committee on TAXATION.",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "In concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Report READ and ACCEPTED.",
+      "date": "2025-06-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "READ ONCE.",
+      "date": "2025-06-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Committee Amendment \"A\" (S-400) READ and ADOPTED.",
+      "date": "2025-06-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-400).",
+      "date": "2025-06-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Ordered sent down forthwith for concurrence.",
+      "date": "2025-06-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "CONSENT CALENDAR - FIRST DAY",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Under suspension of the rules CONSENT CALENDAR - SECOND DAY.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-400).",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "In concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "PASSED TO BE ENACTED.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending ENACTMENT in concurrence.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "On motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby the Bill was PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-400)",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "On further motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby Committee Amendment \"A\" (S-400) was ADOPTED.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "On further motion by Same Senator Senate Amendment \"A\" (S-488) to Committee Amendment \"A\" (S-400) READ and ADOPTED.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Committee Amendment \"A\" (S-400) as Amended by Senate Amendment \"A\" (S-488) thereto ADOPTED.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-400) as Amended by Senate Amendment \"A\" (S-488) thereto in NON-CONCURRENCE.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Sent down for concurrence.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-400) as Amended by Senate Amendment \"A\" (S-488) thereto.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "ROLL CALL NO. 598",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "(Yeas 96 - Nays 43 - Absent 10 - Excused 2)",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "ORDERED SENT FORTHWITH.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "PASSED TO BE ENACTED.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "PASSED TO BE ENACTED, in concurrence.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2025-07-01",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Work Session Held",
+      "date": "2025-05-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Voted - OTP-AM",
+      "date": "2025-05-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Reported Out - OTP-AM",
+      "date": "2025-06-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harold STEWART",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Harold STEWART\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roger ALBERT",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Roger ALBERT\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donald ARDELL",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Donald ARDELL\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark BABIN",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mark BABIN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan BERNARD",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Susan BERNARD\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lucien DAIGLE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lucien DAIGLE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy GUERRETTE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Timothy GUERRETTE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregory SWALLOW",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gregory SWALLOW\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph UNDERWOOD",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joseph UNDERWOOD\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 1951 SP 758",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0758&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment C-A (S-400)",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0758&item=2&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "Amendment S-A to C-A (S-488)",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0758&item=4&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "Chapter 489",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0758&item=6&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Amendment C-A (S-400) - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN195102.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Amendment S-A to C-A (S-488) - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN195104.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Amendment Fiscal Status - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN195106.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280099119",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280099119",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280099119",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280099119",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 1951"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:16Z"
+  }
+}

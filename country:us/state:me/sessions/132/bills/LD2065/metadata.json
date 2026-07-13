@@ -1,0 +1,148 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2065",
+  "title": "An Act To Provide One-Time Funds To Support The Construction Of A Psychiatric Residential Treatment Facility For At-Risk Youth",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AT-RISK YOUTH FACILITY",
+    "CHILDREN",
+    "MENTAL HEALTH SERVICES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2065"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate on December 15, 2025 and REFERRED to the Committee on HEALTH AND HUMAN SERVICES pursuant to Joint Rule 308.2",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henry INGWERSEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Henry INGWERSEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donna BAILEY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Donna BAILEY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lucien DAIGLE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lucien DAIGLE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Drew GATTINE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Drew GATTINE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori GRAMLICH",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lori GRAMLICH\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michele MEYER",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michele MEYER\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marianne MOORE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marianne MOORE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holly STOVER",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Holly STOVER\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2065 SP 854",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0854&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100983",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100983",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100983",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100983",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2065"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:16Z"
+  }
+}

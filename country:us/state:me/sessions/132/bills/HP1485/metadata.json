@@ -1,0 +1,144 @@
+{
+  "legislative_session": "132",
+  "identifier": "HP 1485",
+  "title": "Joint Resolution To Honor The Life, Faith, Leadership And Legacy Of Charles \"Charlie\" James Kirk",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-hp1485"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Reagan PAUL",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Reagan PAUL\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara BAGSHAW",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Barbara BAGSHAW\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marygrace CIMINO",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Marygrace CIMINO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alicia COLLINS",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Alicia COLLINS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimberly HAGGAN",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kimberly HAGGAN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chad PERKINS",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chad PERKINS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katrina SMITH",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Katrina SMITH\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael SOBOLESKI",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael SOBOLESKI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harold STEWART",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Harold STEWART\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James WHITE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"James WHITE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 0 HP 1485",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1485&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101519",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101519",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101519",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101519",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:14Z"
+  }
+}

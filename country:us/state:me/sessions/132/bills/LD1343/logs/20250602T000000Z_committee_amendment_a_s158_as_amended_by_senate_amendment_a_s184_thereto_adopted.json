@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (S-158) as Amended by Senate Amendment \"A\" (S-184) thereto ADOPTED.",
+    "occurred_at": "2025-06-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097920",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097920",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097920",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097920",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1343"
+}

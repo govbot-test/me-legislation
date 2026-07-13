@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "Motion of Representative HENDERSON of Rumford to RECEDE and CONCUR to ACCEPTANCE of the Majority Ought to Pass as Amended Report and PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-256) FAILED.",
+    "occurred_at": "2025-06-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098573",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098573",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098573",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098573",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1715"
+}

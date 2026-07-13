@@ -1,0 +1,118 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2146",
+  "title": "An Act To Increase Access To Critical Vaccinations",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "HEALTH CARE SERVICES",
+    "PREVENTION PROGRAMS",
+    "VACCINE ACCESS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2146"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Matthea DAUGHTRY",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Matthea DAUGHTRY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donna BAILEY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Donna BAILEY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan FECTEAU",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ryan FECTEAU\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henry INGWERSEN",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Henry INGWERSEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristi MATHIESON",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kristi MATHIESON\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Samuel ZAGER",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Samuel ZAGER\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2146 SP 864",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0864&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101083",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101083",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101083",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101083",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2146"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:17Z"
+  }
+}

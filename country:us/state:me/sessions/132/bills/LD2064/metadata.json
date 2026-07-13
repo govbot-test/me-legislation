@@ -1,0 +1,140 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2064",
+  "title": "An Act To Expand Access To Early Childhood Nutrition By Establishing A Grant Program For Public Preschools",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "EXPANSION",
+    "NUTRITION PROGRAMS",
+    "SCHOOL PROGRAMS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2064"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate on December 15, 2025 and REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Matthea DAUGHTRY",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Matthea DAUGHTRY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holly EATON",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Holly EATON\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henry INGWERSEN",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Henry INGWERSEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelly MURPHY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kelly MURPHY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Teresa PIERCE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Teresa PIERCE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph RAFFERTY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Joseph RAFFERTY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzanne SALISBURY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Suzanne SALISBURY\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2064 SP 853",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0853&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100982",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100982",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100982",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100982",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2064"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:12Z"
+  }
+}

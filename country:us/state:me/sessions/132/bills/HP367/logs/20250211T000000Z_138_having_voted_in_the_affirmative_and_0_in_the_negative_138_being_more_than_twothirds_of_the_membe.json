@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "138 having voted in the affirmative and 0 in the negative, 138 being more than two-thirds of the membership present, the Joint Order was PASSED.",
+    "occurred_at": "2025-02-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096477",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096477",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096477",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096477",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HP 367"
+}

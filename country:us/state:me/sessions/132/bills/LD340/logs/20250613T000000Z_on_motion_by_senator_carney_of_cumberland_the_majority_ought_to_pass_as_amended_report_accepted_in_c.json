@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "On motion by Senator CARNEY of Cumberland The Majority Ought to Pass As Amended Report ACCEPTED in concurrence PREVAILED",
+    "occurred_at": "2025-06-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096158",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096158",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096158",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096158",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 340"
+}

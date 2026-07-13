@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Roll Call Ordered Roll Call Number 197 Yeas 19 - Nays 13 - Excused 3 - Absent 0",
+    "occurred_at": "2025-05-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098590",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098590",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098590",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098590",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1696"
+}

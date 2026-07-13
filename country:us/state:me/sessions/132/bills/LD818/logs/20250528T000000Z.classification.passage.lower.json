@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion of Representative CLOUTIER of Lewiston, House Amendment \"A\" (H-62) was READ and ADOPTED.",
+    "occurred_at": "2025-05-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097018",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097018",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097018",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097018",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 818"
+}

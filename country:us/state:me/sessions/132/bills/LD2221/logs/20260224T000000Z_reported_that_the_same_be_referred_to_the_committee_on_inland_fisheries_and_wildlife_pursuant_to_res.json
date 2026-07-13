@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Reported that the same be REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE, pursuant to Resolve, chapter 82, section 6.",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101692",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101692",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101692",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101692",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 2221"
+}

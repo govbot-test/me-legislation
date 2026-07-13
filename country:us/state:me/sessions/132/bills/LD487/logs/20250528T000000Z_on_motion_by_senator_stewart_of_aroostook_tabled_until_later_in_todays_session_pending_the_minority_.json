@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "On motion by Senator STEWART of Aroostook Tabled until Later in Today's Session, pending The Minority Ought to Pass As Amended by Committee Amendment \"A\" (H-117) Report in NON-CONCURRENCE.",
+    "occurred_at": "2025-05-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096403",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096403",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096403",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096403",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 487"
+}

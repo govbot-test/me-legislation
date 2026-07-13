@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "40 having voted in the affirmative and 100 in the negative, with 9 being absent and 2 excused, and accordingly it was the vote of the House that the Bill not become a law and the veto was sustained.",
+    "occurred_at": "2025-06-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "veto-override-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097881",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097881",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097881",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097881",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1328"
+}

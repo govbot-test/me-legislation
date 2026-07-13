@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion by Senator PIERCE of Cumberland The Senate INSISTED on ACCEPTANCE of the Majority Ought to Pass As Amended by Committee Amendment \"A\" (S-72) Report and PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-72)",
+    "occurred_at": "2025-05-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097371",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097371",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097371",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097371",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1013"
+}

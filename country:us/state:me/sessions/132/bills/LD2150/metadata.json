@@ -1,0 +1,150 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2150",
+  "title": "An Act To Establish Procedures For Restricting Access To State Property, Access To State Services And Communication With Or Through State Entities",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL PROCEDURE",
+    "PUBLIC ACCESS",
+    "TRESPASS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2150"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Nicole GROHOSKI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole GROHOSKI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard BENNETT",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Richard BENNETT\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anne CARNEY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Anne CARNEY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tavis HASENFUS",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tavis HASENFUS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rachel HENDERSON",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rachel HENDERSON\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Craig HICKMAN",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Craig HICKMAN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam LEE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Adam LEE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nina MILLIKEN",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nina MILLIKEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David SINCLAIR",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"David SINCLAIR\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rachel TALBOT ROSS",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rachel TALBOT ROSS\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2150 SP 871",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0871&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101119",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101119",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101119",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101119",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2150"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:14Z"
+  }
+}

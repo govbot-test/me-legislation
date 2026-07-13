@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "On motion by Senator NANGLE of Cumberland, TAKEN FROM THE SPECIAL HIGHWAY TABLE.",
+    "occurred_at": "2025-06-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097963",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097963",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097963",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097963",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1359"
+}

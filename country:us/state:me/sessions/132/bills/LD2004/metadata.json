@@ -1,0 +1,164 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2004",
+  "title": "An Act To Enhance Support Of Local Nutrition Incentive Programs By Modifying The Eligibility Requirements Of The Fund To Address Food Insecurity And Provide Nutrition Incentives",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGRICULTURE, CONSERVATION AND FORE",
+    "FOOD INSECURITY",
+    "POWERS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2004"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate on December 3, 2025 and REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY pursuant to Joint Rule 308.2",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henry INGWERSEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Henry INGWERSEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard BENNETT",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Richard BENNETT\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell BLACK",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell BLACK\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthea DAUGHTRY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Matthea DAUGHTRY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anne GRAHAM",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Anne GRAHAM\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William PLUECKER",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William PLUECKER\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Margaret ROTUNDO",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Margaret ROTUNDO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzanne SALISBURY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Suzanne SALISBURY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rachel TALBOT ROSS",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rachel TALBOT ROSS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael TIPPING",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Michael TIPPING\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2004 SP 820",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0820&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100841",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100841",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100841",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100841",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2004"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:16Z"
+  }
+}

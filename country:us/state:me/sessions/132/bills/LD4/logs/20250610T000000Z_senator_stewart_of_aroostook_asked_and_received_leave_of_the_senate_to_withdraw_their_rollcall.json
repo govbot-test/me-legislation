@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Senator STEWART of Aroostook asked and received leave of the Senate to Withdraw their Rollcall.",
+    "occurred_at": "2025-06-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095521",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095521",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095521",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095521",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 4"
+}

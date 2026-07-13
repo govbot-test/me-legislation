@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Representative PLUECKER for the Joint Standing Committee on Agriculture, Conservation and Forestry pursuant to the Maine Revised Statutes, Title 5, section 8072 reports that the Resolve be REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY and printed pursuant to Joint Rule 218.",
+    "occurred_at": "2025-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096825",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096825",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096825",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096825",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 750"
+}

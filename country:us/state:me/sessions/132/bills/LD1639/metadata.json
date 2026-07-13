@@ -1,0 +1,287 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 1639",
+  "title": "An Act To Codify Minimum Instructional Hours In The State'S Schools",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "INSTRUCTIONAL HOURS",
+    "SCHOOL POLICIES",
+    "SCHOOL YEAR"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld1639"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate on April 11, 2025 and REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "Report READ and ACCEPTED.",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "READ ONCE.",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "Committee Amendment \"A\" (S-275) READ and ADOPTED.",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-275).",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "Ordered sent down forthwith for concurrence.",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "CONSENT CALENDAR - FIRST DAY",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "Under suspension of the rules CONSENT CALENDAR - SECOND DAY.",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-275).",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "In concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "FINALLY PASSED.",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending FINAL PASSAGE in concurrence.",
+      "date": "2025-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "CARRIED OVER, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "Work Session Held",
+      "date": "2025-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "Voted - OTP-AM",
+      "date": "2025-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    },
+    {
+      "description": "Reported Out - OTP-AM",
+      "date": "2025-06-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicole GROHOSKI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole GROHOSKI\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 1639 SP 647",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0647&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment C-A (S-275)",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0647&item=2&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    }
+  ],
+  "documents": [
+    {
+      "note": "Amendment C-A (S-275) - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN163902.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098455",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098455",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098455",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098455",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 1639"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:12Z"
+  }
+}

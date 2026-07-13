@@ -1,0 +1,126 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2077",
+  "title": "An Act To Reduce The Cost Of Purchasing A Home By Providing Grants To Reduce Mortgage Rates",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ASSISTANCE",
+    "HOUSING",
+    "SUBSIDY"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2077"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Wayne FARRIN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wayne FARRIN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holly EATON",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Holly EATON\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan FECTEAU",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ryan FECTEAU\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharon FROST",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Sharon FROST\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cheryl GOLEK",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cheryl GOLEK\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parnell TERRY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Parnell TERRY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kilton WEBB",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kilton WEBB\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2077 HP 1392",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1392&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101124",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101124",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101124",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101124",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2077"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:17Z"
+  }
+}

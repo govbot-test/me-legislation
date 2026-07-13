@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Roll Call Ordered Roll Call Number 84 Yeas 11 - Nays 22 - Excused 2 - Absent 0",
+    "occurred_at": "2025-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096082",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096082",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096082",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096082",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 373"
+}

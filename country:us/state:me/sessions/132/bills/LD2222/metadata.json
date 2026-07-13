@@ -1,0 +1,145 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2222",
+  "title": "An Act To Establish Municipal Cost Components For Unorganized Territory Services To Be Rendered In Fiscal Year 2026-27",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "MUNICIPAL COST COMPONENTS",
+    "PROPERTY TAX PROCEDURES",
+    "UNORGANIZED TERRITORY"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2222"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Representative SAYRE for the Administrator of the unorganized territory pursuant to the Maine Revised Statutes, Title 36, section 1604, reports that the Bill be REFERRED to the Committee on TAXATION and ordered printed pursuant to Joint Rule 218.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Report was READ and ACCEPTED.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "The Bill was REFERRED to the Committee on TAXATION and ordered printed pursuant to Joint Rule 218.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "Report READ and ACCEPTED, in concurrence.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    },
+    {
+      "description": "On motion by Senator Grohoski of Hancock REFERRED to the Committee on TAXATION and ordered printed pursuant to Joint Rule 218, in concurrence.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Daniel SAYRE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel SAYRE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2222 HP 1499",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1499&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101694",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101694",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101694",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101694",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2222"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:16Z"
+  }
+}

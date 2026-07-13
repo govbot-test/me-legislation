@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "On motion by Same Senator the bill was REFERENCED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY In NON-CONCURRENCE",
+    "occurred_at": "2025-03-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096055",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096055",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096055",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096055",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 383"
+}

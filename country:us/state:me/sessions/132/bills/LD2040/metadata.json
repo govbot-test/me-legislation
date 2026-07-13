@@ -1,0 +1,103 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2040",
+  "title": "An Act To Survey Food Insecurity In Maine",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGRICULTURE, CONSERVATION AND FORE",
+    "FOOD INSECURITY SURVEY",
+    "POWERS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2040"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Clerk of the House on December 3, 2025.",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:13Z"
+      }
+    },
+    {
+      "description": "The Bill was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "William PLUECKER",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William PLUECKER\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2040 HP 1370",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1370&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100905",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100905",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100905",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100905",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2040"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:13Z"
+  }
+}

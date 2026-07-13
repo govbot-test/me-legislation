@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (H-295) as Amended by House Amendment \"A\" (H-500) thereto was ADOPTED.",
+    "occurred_at": "2025-06-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095960",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095960",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095960",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095960",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 261"
+}

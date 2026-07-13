@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion of Representative ROEDER of Bangor, the Majority Ought Not to Pass Report was ACCEPTED.",
+    "occurred_at": "2025-06-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097810",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097810",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097810",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097810",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1273"
+}

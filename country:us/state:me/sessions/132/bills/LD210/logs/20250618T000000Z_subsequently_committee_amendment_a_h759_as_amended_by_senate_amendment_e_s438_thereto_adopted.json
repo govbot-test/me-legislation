@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Subsequently Committee Amendment \"A\" (H-759) as Amended by Senate Amendment \"E\" (S-438) thereto ADOPTED",
+    "occurred_at": "2025-06-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095830",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095830",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095830",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095830",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 210"
+}

@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion by Same Senator REFERRED to the Committee on Criminal Justice and Public Safety and ordered printed pursuant to Joint Rule 218.",
+    "occurred_at": "2025-04-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098863",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098863",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098863",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098863",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1817"
+}

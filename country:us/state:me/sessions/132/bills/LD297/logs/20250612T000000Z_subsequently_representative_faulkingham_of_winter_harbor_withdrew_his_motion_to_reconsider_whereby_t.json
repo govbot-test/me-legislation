@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Subsequently, Representative FAULKINGHAM of Winter Harbor WITHDREW his motion to RECONSIDER whereby the Bill FAILED PASSAGE TO BE ENACTED.",
+    "occurred_at": "2025-06-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096121",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096121",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096121",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096121",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 297"
+}

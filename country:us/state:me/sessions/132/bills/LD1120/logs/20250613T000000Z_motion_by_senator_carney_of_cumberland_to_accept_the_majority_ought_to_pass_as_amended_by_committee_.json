@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Motion by Senator CARNEY of Cumberland to ACCEPT The Majority Ought to Pass As Amended by Committee Amendment \"A\" (H-655) FAILED",
+    "occurred_at": "2025-06-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097574",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097574",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097574",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097574",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1120"
+}

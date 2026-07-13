@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-753).",
+    "occurred_at": "2025-06-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097279",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097279",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097279",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097279",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 978"
+}

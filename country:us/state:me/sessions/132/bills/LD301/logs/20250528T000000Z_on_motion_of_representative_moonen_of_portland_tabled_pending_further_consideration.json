@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "On motion of Representative MOONEN of Portland, TABLED pending FURTHER CONSIDERATION.",
+    "occurred_at": "2025-05-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096128",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096128",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096128",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096128",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 301"
+}

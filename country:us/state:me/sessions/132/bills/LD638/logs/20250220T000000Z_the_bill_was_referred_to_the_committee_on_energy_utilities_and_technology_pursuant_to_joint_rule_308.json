@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "The Bill was REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+    "occurred_at": "2025-02-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096708",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096708",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096708",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096708",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 638"
+}

@@ -1,0 +1,124 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2009",
+  "title": "An Act To Allow A Political Subdivision To Enter Into Federal Bankruptcy Proceedings",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BONDING AUTHORITY",
+    "COUNTIES",
+    "FEDERAL BANKRUPTCY PROCEEDINGS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2009"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate on December 3, 2025 and REFERRED to the Committee on STATE AND LOCAL GOVERNMENT pursuant to Joint Rule 308.2",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Marianne MOORE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marianne MOORE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Billy Bob FAULKINGHAM",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Billy Bob FAULKINGHAM\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mathew MCINTYRE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mathew MCINTYRE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William TUELL",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William TUELL\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph UNDERWOOD",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joseph UNDERWOOD\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2009 SP 828",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0828&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100865",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100865",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100865",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100865",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2009"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:12Z"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Motion of Representative BOYER of Poland, to RECEDE and CONCUR to ACCEPTANCE of the Minority Ought to Pass as Amended Report and as Amended by Committee Amendment \"B\" (S-397) FAILED.",
+    "occurred_at": "2025-06-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097739",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097739",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097739",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097739",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1298"
+}

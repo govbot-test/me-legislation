@@ -1,0 +1,167 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2221",
+  "title": "An Act To Amend The Composition Of The Landowners And Land Users Relations Advisory Board",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADVISORY BOARD",
+    "INLAND FISHERIES AND WILDLIFE DEPT",
+    "LANDOWNER RELATIONS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2221"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Reported that the same be REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE, pursuant to Resolve, chapter 82, section 6.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    },
+    {
+      "description": "Report READ and ACCEPTED.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    },
+    {
+      "description": "Bill and accompanying papers REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    },
+    {
+      "description": "Sent down for concurrence.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    },
+    {
+      "description": "Report was READ and ACCEPTED.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    },
+    {
+      "description": "The Bill was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    },
+    {
+      "description": "In concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joseph BALDACCI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Joseph BALDACCI\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2221 SP 905",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0905&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "LD 2221 SP 905 - Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/bills_132nd/fiscalpdfs/FN222101.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101692",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101692",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101692",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101692",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2221"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:10Z"
+  }
+}

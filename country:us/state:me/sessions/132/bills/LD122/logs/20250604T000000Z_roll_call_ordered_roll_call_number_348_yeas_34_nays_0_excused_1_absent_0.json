@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Roll Call Ordered Roll Call Number 348 Yeas 34 - Nays 0 - Excused 1 - Absent 0",
+    "occurred_at": "2025-06-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095554",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095554",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095554",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095554",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 122"
+}

@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion by Senator Tepler of Sagadahoc REFERRED to the Committee on Environment and Natural Resources and ordered printed pursuant to Joint Rule 218, in concurrence.",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101816",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101816",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101816",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101816",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 2227"
+}

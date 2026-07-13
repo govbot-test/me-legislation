@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion by Senator PIERCE of Cumberland the Senate RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-491) as Amended by House Amendment \"A\" (H-735) thereto in concurrence.",
+    "occurred_at": "2025-06-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097227",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097227",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097227",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097227",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 949"
+}

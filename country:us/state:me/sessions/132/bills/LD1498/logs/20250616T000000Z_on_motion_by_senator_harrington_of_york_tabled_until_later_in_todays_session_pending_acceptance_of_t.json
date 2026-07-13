@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "On motion by Senator HARRINGTON of York Tabled until Later in Today's Session, pending ACCEPTANCE of the Ought to Pass As Amended by Committee Amendment \"A\" (H-734) Report.",
+    "occurred_at": "2025-06-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098265",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098265",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098265",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098265",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1498"
+}

@@ -1,0 +1,156 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2008",
+  "title": "An Act To Provide Funding To The Maine School Of Science And Mathematics And Clarify Sending School Administrative Unit Obligations",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BUILDINGS",
+    "SCHOOL FACILITIES",
+    "SCHOOL OF SCIENCE AND MATHEMATICS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2008"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate on December 3, 2025 and REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicole GROHOSKI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole GROHOSKI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark BABIN",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mark BABIN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan BERNARD",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Susan BERNARD\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharon FROST",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Sharon FROST\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Traci GERE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Traci GERE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James LIBBY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"James LIBBY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelly MURPHY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kelly MURPHY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph RAFFERTY",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Joseph RAFFERTY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harold STEWART",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Harold STEWART\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2008 SP 827",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0827&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100864",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100864",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100864",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100864",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2008"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:15Z"
+  }
+}

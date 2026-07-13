@@ -1,0 +1,103 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2072",
+  "title": "An Act To Make Changes To The Laws Governing Financial Institutions And To Eliminate Certain Administrative Fees Paid By Banks And Credit Unions Under The Maine Consumer Credit Code",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CONSUMER LOAN FEES",
+    "FINANCIAL INSTITUTIONS",
+    "REGULATION"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2072"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Clerk of the House on December 15, 2025.",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:17Z"
+      }
+    },
+    {
+      "description": "The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kristi MATHIESON",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kristi MATHIESON\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2072 HP 1385",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1385&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100991",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100991",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100991",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100991",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2072"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:17Z"
+  }
+}

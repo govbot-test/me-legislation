@@ -1,0 +1,143 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2223",
+  "title": "An Act To Increase Funding For Construction Plan Reviews And Clarify Rule-Making Authority For Municipal Reviews Of Development",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CONSTRUCTION PLAN REVIEWS",
+    "FIRE MARSHAL",
+    "FIRE SAFETY"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2223"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Representative HASENFUS for the Joint Standing Committee on Criminal Justice and Public Safety pursuant to Resolve 2025, chapter 103, section 4 reports that the Bill be REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY and printed pursuant to Joint Rule 218.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "Report was READ and ACCEPTED.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "Report READ and ACCEPTED, in concurrence.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    },
+    {
+      "description": "On motion by Senator Beebe-Center of Knox REFERRED to Committee on Criminal Justice and Public Safety, in concurrence.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tavis HASENFUS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tavis HASENFUS\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2223 HP 1498",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1498&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101695",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101695",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101695",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101695",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2223"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:14Z"
+  }
+}

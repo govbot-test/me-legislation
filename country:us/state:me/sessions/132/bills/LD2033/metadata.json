@@ -1,0 +1,135 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2033",
+  "title": "Resolve, To Designate Route 3 In Trenton As The Deputy Luke Gross Memorial Highway",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "NAMING",
+    "ROADS",
+    "ROUTE 3 IN TRENTON"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2033"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Clerk of the House on December 3, 2025.",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:13Z"
+      }
+    },
+    {
+      "description": "The Resolve was REFERRED to the Committee on TRANSPORTATION pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Billy Bob FAULKINGHAM",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Billy Bob FAULKINGHAM\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven BISHOP",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Steven BISHOP\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mathew MCINTYRE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mathew MCINTYRE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harold STEWART",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Harold STEWART\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell WHITE",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Russell WHITE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2033 HP 1363",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1363&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280100899",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280100899",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280100899",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280100899",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2033"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:13Z"
+  }
+}

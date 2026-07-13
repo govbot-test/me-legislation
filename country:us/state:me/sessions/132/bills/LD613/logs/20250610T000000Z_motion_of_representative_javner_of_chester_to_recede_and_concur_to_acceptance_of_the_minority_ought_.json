@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Motion of Representative JAVNER of Chester to RECEDE and CONCUR to ACCEPTANCE of the Minority Ought Not to Pass Report FAILED.",
+    "occurred_at": "2025-06-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096683",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096683",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096683",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096683",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 613"
+}

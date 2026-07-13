@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Reported by Senator CARNEY of Cumberland for the Joint Standing Committee on Judiciary pursuant to the Maine Revised Statutes, Title 4, section 1804, subsection 3, paragraph H.",
+    "occurred_at": "2025-04-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098822",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098822",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098822",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098822",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1801"
+}

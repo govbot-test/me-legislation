@@ -1,0 +1,111 @@
+{
+  "legislative_session": "132",
+  "identifier": "LD 2179",
+  "title": "An Act To Amend Certain Motor Vehicle Laws",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "MOTOR VEHICLES",
+    "PROVISIONS REVISED",
+    "REGULATION"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-me-132-ld2179"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Committee on TRANSPORTATION suggested and ordered printed REFERENCE to the Committee on TRANSPORTATION Ordered sent down forthwith for concurrence",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    },
+    {
+      "description": "The Bill was REFERRED to the Committee on TRANSPORTATION.",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    },
+    {
+      "description": "In concurrence. ORDERED SENT FORTHWITH.",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Timothy NANGLE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Timothy NANGLE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LD 2179 SP 884",
+      "links": [
+        {
+          "url": "http://www.mainelegislature.org/legis/bills/getPDF.asp?paper=SP0884&item=1&snum=132",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280101363",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280101363",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280101363",
+      "note": ""
+    },
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280101363",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "ld_number": "LD 2179"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:me/government",
+    "name": "Maine",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:me"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:10Z"
+  }
+}

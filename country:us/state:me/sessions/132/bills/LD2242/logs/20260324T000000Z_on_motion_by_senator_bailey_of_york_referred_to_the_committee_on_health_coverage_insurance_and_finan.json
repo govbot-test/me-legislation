@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion by Senator Bailey of York REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES and ordered printed pursuant to Joint Rule 218, in concurrence.",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280102123",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280102123",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280102123",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280102123",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 2242"
+}

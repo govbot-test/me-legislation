@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Motion by Senator BRADSTREET of Kennebec to table until Later in Today's Session, pending motion of Senator CURRY of Waldo to ACCEPT The Majority Ought to Pass As Amended by Committee Amendment \"A\" (S-273) Report FAILED",
+    "occurred_at": "2025-06-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097597",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097597",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097597",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097597",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1145"
+}

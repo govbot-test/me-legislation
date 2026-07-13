@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Motion by Senator GROHOSKI of Hancock to ACCEPT Report A Ought to Pass as Amended by Committee Amendment \"A\" (S-431) Report. FAILED",
+    "occurred_at": "2025-06-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097641",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097641",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097641",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097641",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1211"
+}

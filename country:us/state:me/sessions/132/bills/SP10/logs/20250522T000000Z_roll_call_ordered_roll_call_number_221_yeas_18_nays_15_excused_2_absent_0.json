@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Roll Call Ordered Roll Call Number 221 Yeas 18 - Nays 15 - Excused 2 - Absent 0",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095518",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095518",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095518",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095518",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SP 10"
+}

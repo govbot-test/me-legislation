@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED.",
+    "occurred_at": "2025-05-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095542",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095542",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095542",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095542",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 119"
+}

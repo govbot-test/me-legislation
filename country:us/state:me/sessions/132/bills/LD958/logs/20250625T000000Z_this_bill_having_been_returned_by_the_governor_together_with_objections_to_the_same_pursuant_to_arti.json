@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "This Bill, having been returned by the Governor, together with objections to the same pursuant to Article IV, Part Third, Section 2 of the Constitution of the State of Maine, after reconsideration, the House proceeded to vote on the question: \"Shall this Bill become a law notwithstanding the objections of the Governor?\"",
+    "occurred_at": "2025-06-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097251",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097251",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097251",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097251",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 958"
+}

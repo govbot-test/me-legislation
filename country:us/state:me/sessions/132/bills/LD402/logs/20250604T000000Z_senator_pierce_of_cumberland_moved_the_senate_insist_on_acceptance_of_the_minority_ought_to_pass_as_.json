@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Senator PIERCE of Cumberland moved The Senate INSIST on ACCEPTANCE of The Minority Ought to Pass As Amended by Committee Amendment \"B\" (H-381)",
+    "occurred_at": "2025-06-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096244",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096244",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096244",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096244",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 402"
+}

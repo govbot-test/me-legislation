@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion of Representative MURPHY of Scarborough, the Majority Ought Not to Pass Report was ACCEPTED.",
+    "occurred_at": "2025-06-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098726",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098726",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098726",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098726",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1760"
+}

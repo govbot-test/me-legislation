@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Representative KUHN for the Joint Standing Committee on Judiciary pursuant to the Maine Revised Statutes, Title 1, section 411, subsection 6, paragraph G reports that the Bill be REFERRED to the Committee on JUDICIARY and printed pursuant to Joint Rule 218.",
+    "occurred_at": "2025-04-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098886",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098886",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098886",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098886",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1827"
+}

@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (H-235) READ and ADOPTED, in concurrence.",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096469",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096469",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096469",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096469",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 546"
+}

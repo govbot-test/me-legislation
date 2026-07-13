@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Placed in Legislative Files (DEAD) Roll Call Number 207 Yeas 17 - Nays 14 - Excused 3 - Absent 1",
+    "occurred_at": "2025-05-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095762",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095762",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095762",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095762",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 174"
+}

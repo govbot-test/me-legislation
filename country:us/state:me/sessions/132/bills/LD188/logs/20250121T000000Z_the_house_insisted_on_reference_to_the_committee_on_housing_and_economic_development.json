@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "The House INSISTED on REFERENCE to the Committee on HOUSING AND ECONOMIC DEVELOPMENT.",
+    "occurred_at": "2025-01-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095802",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095802",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095802",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095802",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 188"
+}

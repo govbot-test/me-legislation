@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY.",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097788",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097788",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097788",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097788",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1263"
+}

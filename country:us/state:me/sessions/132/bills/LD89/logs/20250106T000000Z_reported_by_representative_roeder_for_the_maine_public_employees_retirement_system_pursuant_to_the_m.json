@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Reported by Representative ROEDER for the Maine Public Employees Retirement System pursuant to the Maine Revised Statutes, Title 5, section 8072.",
+    "occurred_at": "2025-01-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280095630",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280095630",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280095630",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280095630",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 89"
+}

@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading.",
+    "occurred_at": "2025-06-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098814",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098814",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098814",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098814",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1796"
+}

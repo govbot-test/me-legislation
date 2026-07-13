@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "On motion of Representative CLOUTIER of Lewiston, REPORT B Ought to Pass as Amended was ACCEPTED.",
+    "occurred_at": "2025-06-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097641",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097641",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097641",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097641",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1211"
+}

@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "The Resolve was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES.",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097800",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280097800",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280097800",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280097800",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1269"
+}

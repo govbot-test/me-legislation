@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion by Senator PIERCE of Cumberland the Senate INSISTED to PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-357) AS AMENDED BY Senate Amendment \"A\" (S-373) thereto, in NON-CONCURRENCE.",
+    "occurred_at": "2025-06-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280098804",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280098804",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280098804",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280098804",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 1792"
+}

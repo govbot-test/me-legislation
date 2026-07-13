@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "On motion by Senator STEWART of Aroostook the Senate RECEDED AND CONCURRED to The Majority Ought to Pass Report and the Bill PASSED TO BE ENGROSSED in concurrence. PREVAILED",
+    "occurred_at": "2025-06-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "132",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280096361",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/sponsors.asp?ID=280096361",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280096361",
+        "note": ""
+      },
+      {
+        "url": "https://legislature.maine.gov/LawMakerWeb/subjects.asp?ID=280096361",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LD 556"
+}
