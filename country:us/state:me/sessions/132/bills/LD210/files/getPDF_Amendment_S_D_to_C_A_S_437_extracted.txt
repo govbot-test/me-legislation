@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-D to C-A (S-437)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 L.D. 210
+2 Date: (Filing No. S- )
+3 Reproduced and distributed under the direction of the Secretary of the Senate.
+4 STATE OF MAINE
+5 SENATE
+6 132ND LEGISLATURE
+7 FIRST SPECIAL SESSION
+8 SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 132,
+9 L.D. 210, “An Act Making Unified Appropriations and Allocations from the General Fund
+10 and Other Funds for the Expenditures of State Government and Changing Certain
+11 Provisions of the Law Necessary to the Proper Operations of State Government for the
+12 Fiscal Years Ending June 30, 2025, June 30, 2026 and June 30, 2027”
+13 Amend the amendment by inserting after Part AAAA the following:
+14 'PART BBBB
+15 Sec. BBBB-1. 22-A MRSA §214, sub-§1, ¶A-1 is enacted to read:
+16 A-1. "In good standing" means that a service provider has successfully complied with
+17 the terms and conditions of its most recent contract with the department and has no
+18 unresolved or outstanding compliance concerns.
+19 Sec. BBBB-2. 22-A MRSA §214, sub-§1, ¶C is enacted to read:
+20 C. "Previous contract rate" means the payment rate or structure established under the
+21 most recent contract between a service provider and the department.
+22 Sec. BBBB-3. 22-A MRSA §214, sub-§1, ¶D is enacted to read:
+23 D. "Service provider" means an entity, including, but not limited to, a private or
+24 nonprofit behavioral health agency, housing assistance provider or other nonprofit
+25 organization that contracts with the department to provide services.
+26 Sec. BBBB-4. 22-A MRSA §214, sub-§5 is enacted to read:
+27 5. Contract extensions. The department shall include language in its contracts with
+28 service providers providing that, in the event of a delay in the finalization of a
+29 noncompetitively procured contract renewal, as long as the delays are solely the result of
+30 department or state administrative procurement processes, the value of the renewal contract
+31 meets the review threshold of the State Procurement Review Committee as set forth in Title
+32 5, section 1824-B and the service provider remains in good standing with the department,
+33 the department must offer the service provider the option of extending the contract for up
+34 to 6 months at the previous contract rate and terms until the renewal of the contract is
+35 finalized.
+Page 1 - 132LR2409(08)
+SENATE AMENDMENT
+
+SENATE AMENDMENT “ ” to COMMITTEE AMENDMENT “A” to H.P. 132, L.D. 210
+1 Sec. BBBB-5. Appropriations and allocations. The following appropriations
+2 and allocations are made.
+3 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+4 Department of Health and Human Services Central Operations 0142
+5 Initiative: Establishes one Management Analyst II position to develop and administer a
+6 contract extension process for service providers and provides funding for related All Other
+7 costs.
+8 GENERAL FUND 2025-26 2026-27
+9 POSITIONS - LEGISLATIVE COUNT 1.000 1.000
+10 Personal Services $68,141 $71,306
+11 All Other $4,789 $4,789
+12 __________ __________
+13 GENERAL FUND TOTAL $72,930 $76,095
+148
+15 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+16 Personal Services $35,103 $36,733
+17 All Other $3,339 $3,376
+18 __________ __________
+19 OTHER SPECIAL REVENUE FUNDS TOTAL $38,442 $40,109
+2105 '
+21 Amend the amendment by relettering or renumbering any nonconsecutive Part letter or
+22 section number to read consecutively.
+23 SUMMARY
+2244 This amendment requires the Department of Health and Human Services to include
+2255 language in its contracts with service providers providing that, in the event of a delay in
+2266 finalization of a noncompetitively procured contract renewal, as long as the delays are
+2277 solely the result of department or state administrative procurement processes, the value of
+2288 the renewal contract meets the review threshold of the State Procurement Review
+2299 Committee as set forth in the Maine Revised Statutes, Title 5, section 1824-B and the
+3300 service provider remains in good standing with the department, the department must offer
+3311 the service provider the option of extending the contract for up to 6 months at the previous
+3322 contract rate and terms until the renewal of the contract is finalized.
+3333 SPONSORED BY: ___________________________________
+3344 (Senator BENNETT, R.)
+3355 COUNTY: Oxford
+Page 2 - 132LR2409(08)
+SENATE AMENDMENT
